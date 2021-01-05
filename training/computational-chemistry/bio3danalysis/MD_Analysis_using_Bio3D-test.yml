@@ -4,11 +4,11 @@
     protein_pdb:
       class: File
       location: https://zenodo.org/record/2537734/files/cbh1test.pdb
-      filetype: pdb
+      # filetype: pdb
     protein_mdsimulation_dcd:
       class: File
       location: https://zenodo.org/record/2537734/files/cbh1test.dcd
-      filetype: dcd
+      # filetype: dcd
   outputs:
     rmsf_tabular_output:
       asserts:

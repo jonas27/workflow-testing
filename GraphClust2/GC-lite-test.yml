@@ -3,7 +3,7 @@
     cliques_lite:
       class: File
       location: https://raw.githubusercontent.com/BackofenLab/GraphClust-2/master/data/Rfam-cliques-dataset/cliques-low-representatives.fa
-      filetype: fasta
+      # filetype: fasta
   outputs:
     evaluation_text:
       asserts:

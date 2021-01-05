@@ -3,11 +3,11 @@
     de_results:
       class: File
       location: https://zenodo.org/record/2529117/files/limma-voom_luminalpregnant-luminallactate
-      filetype: tabular
+      # filetype: tabular
     volcano_genes:
       class: File
       location: https://zenodo.org/record/2529117/files/volcano_genes
-      filetype: tabular
+      # filetype: tabular
   outputs:
     volcano_pdf:
       file: volcanoplot.pdf

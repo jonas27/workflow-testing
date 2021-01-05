@@ -4,11 +4,11 @@
     mzml:
       class: File
       location: https://zenodo.org/record/892005/files/qExactive01819_profile.mzml
-      filetype: mzml
+      # filetype: mzml
     fasta:
       class: File
       location: https://zenodo.org/record/892005/files/Human_database_%28cRAP_and_Mycoplasma_added%29.fasta
-      filetype: fasta
+      # filetype: fasta
   outputs:
     grep:
       asserts:

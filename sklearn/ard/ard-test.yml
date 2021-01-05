@@ -4,7 +4,7 @@
     test_target.tabular:
       class: File
       location: https://zenodo.org/record/1478640/files/test_target.tabular
-      filetype: tabular
+      # filetype: tabular
   outputs:
     model_results:
       asserts:

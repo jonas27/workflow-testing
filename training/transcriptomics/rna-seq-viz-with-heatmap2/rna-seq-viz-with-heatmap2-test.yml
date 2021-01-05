@@ -3,11 +3,11 @@
     normalized_counts:
       class: File
       location: https://zenodo.org/record/2528905/files/limma-voom_normalised_counts
-      filetype: tabular
+      # filetype: tabular
     heatmap_genes:
       class: File
       location: https://zenodo.org/record/2528905/files/heatmap_genes
-      filetype: tabular
+      # filetype: tabular
   outputs:
     heatmap_pdf:
       file: heatmap.pdf

@@ -4,7 +4,7 @@
     PeptideShaker_PSM_Report:
       class: File
       location: https://zenodo.org/record/2283682/files/Sample_PSM_Report_metaproteomics.tabular
-      filetype: tabular
+      # filetype: tabular
   outputs:
     short_peptide_qt:
       asserts:

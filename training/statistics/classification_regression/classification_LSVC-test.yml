@@ -4,15 +4,15 @@
     breast-w_train:
       class: File
       location: https://zenodo.org/record/3248907/files/breast-w_train.tsv
-      filetype: tabular
+      # filetype: tabular
     breast-w_test:
       class: File
       location: https://zenodo.org/record/3248907/files/breast-w_test.tsv
-      filetype: tabular
+      # filetype: tabular
     breast-w_targets:
       class: File
       location: https://zenodo.org/record/3248907/files/breast-w_targets.tsv
-      filetype: tabular
+      # filetype: tabular
   outputs:
     output_roc:
       asserts:

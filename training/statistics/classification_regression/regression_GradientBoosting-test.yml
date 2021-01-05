@@ -4,15 +4,15 @@
     body_fat_train:
       class: File
       location: https://zenodo.org/record/3248907/files/body_fat_train.tsv
-      filetype: tabular
+      # filetype: tabular
     body_fat_test:
       class: File
       location: https://zenodo.org/record/3248907/files/body_fat_test.tsv
-      filetype: tabular
+      # filetype: tabular
     body_fat_test_labels:
       class: File
       location: https://zenodo.org/record/3248907/files/body_fat_test_labels.tsv
-      filetype: tabular
+      # filetype: tabular
   outputs:
     output_scatter_plot:
       asserts:

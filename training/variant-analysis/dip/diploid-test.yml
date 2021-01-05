@@ -4,11 +4,11 @@
     GIAB-Ashkenazim-Trio.tabular:
       class: File
       location: https://zenodo.org/record/60520/files/GIAB-Ashkenazim-Trio.txt
-      filetype: tabular
+      # filetype: tabular
     GIAB-Ashkenazim-Trio-hg19.bam:
       class: File
       location: https://zenodo.org/record/60520/files/GIAB-Ashkenazim-Trio-hg19.gz
-      filetype: bam
+      # filetype: bam
   outputs:
     GEMINI_query1:
       asserts:
